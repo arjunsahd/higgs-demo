@@ -1,6 +1,6 @@
 # Higgs Demo
 
-Reperforming the Higgs analysis using Kubernetes.
+Reperforming the Higgs Analysis using Kubernetes.
 
 This tool helps with the submission and management of the Higgs Analysis
 against any existing Kubernetes cluster. It relies on the Higgs dataset being
